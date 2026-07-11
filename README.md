@@ -46,4 +46,4 @@ Help me set up AgentOS on this machine. Work step by step. When a step needs me 
 
 Manual Setup link: https://github.com/agno-agi/agentos-railway#get-started
 
-Star us: https://github.com/agno-agi/agno
+Star us ⭐️ on GitHub: https://github.com/agno-agi/agno
