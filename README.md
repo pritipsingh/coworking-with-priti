@@ -1,12 +1,30 @@
-# Co-working with Priti 
+# Co-working Cafe
 
-About Agno 
+<div align="center" id="top">
+  <a href="https://agno.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-light.svg">
+      <img src="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-light.svg" alt="Agno">
+    </picture>
+  </a>
+</div>
+
+<p align="center">
+  Build, run, and manage agent platforms.<br/>
+</p>
+
+## Introduction
 
 Agno is a framework and runtime for building agent platforms.
 
 - Build your agent platform using the Agno SDK.
 - Run your agent platform using the AgentOS runtime.
 - Manage everything using the AgentOS control plane.
+
+Agno allows you to own your agent stack. Maintain control of your data, context, tools, permissions, memory and human-review loops. Run your platform in your own cloud, and manage it using a beautiful UI.
+
+<img width="3192" height="2038" alt="demo-os" src="https://github.com/user-attachments/assets/6d21e6bc-111f-4b81-ba29-6550fead89b2" />
 
 
 The fastest way to get started is using a coding agent. Copy the prompt below into Claude Code, Cursor or Codex and it'll take you from zero to a running platform.
